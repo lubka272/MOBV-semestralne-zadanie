@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Zadanie" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F2F2F2</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColorPrimary">@color/gray</item>
+        <!--        <item name="fontFamily">sans-serif-condensed-medium</item>-->
+        <item name="android:textColorSecondary">@color/gray</item>
+        <item name="android:textColor">@color/gray</item>
+
+    </style>
+</resources>

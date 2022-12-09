@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Zadanie</string>
+    <string name="prompt_email">Meno</string>
+    <string name="prompt_password">Heslo</string>
+    <string name="action_login">Prihlásenie</string>
+    <string name="login_failed">Prihlásenie zlyhalo!</string>
+    <string name="action_sign_up">Registrácia</string>
+    <string name="login_sign_up">Registrácia zlyhala!</string>
+    <string name="or_log_in">Už máš účet? Prihlás sa.</string>
+    <string name="or_create_account">Nemáš účet? Zaregistruj sa.</string>
+    <string name="bars">Podniky</string>
+    <string name="log_out">Odhlásiť sa</string>
+    <string name="repeat_password">Zopakovať heslo</string>
+    <string name="back">späť</string>
+    <string name="zobrazit_na_mape">Zobraziť na mape</string>
+    <string name="location_icon">location icon</string>
+    <string name="list_icon">list icon</string>
+    <string name="name">name</string>
+    <string name="_3">3</string>
+    <string name="type_image">type image</string>
+    <string name="value">value</string>
+    <string name="login_icon">login icon</string>
+    <string name="i_m_here">Som tu</string>
+    <string name="check_in">Zapísanie polohy</string>
+    <string name="friends">friends</string>
+    <string name="add_user_icon">add user icon</string>
+    <string name="friend_user_name">Používateľské meno priateľa</string>
+    <string name="followers">Sledujúci</string>
+    <string name="sort_name">Názov</string>
+    <string name="sort_pocet">Počet</string>
+    <string name="empty_location">Neoznačený v podniku</string>
+    <string name="delete_icon">delete icon</string>
+    <string name="users">Počet používateľov v podniku</string>
+</resources>
